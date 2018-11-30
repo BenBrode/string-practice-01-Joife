@@ -12,7 +12,11 @@ public class Phrase{
     
     //part a
     public void replaceNthOccurence(String str, int n, String repl){
-        
+        /*if (findNthOccurence(str, n) != -1)
+            currentPhrase = currentPhrase.substring(0, findNthOccurence(str, n)) +
+                            repl +
+                            currentPhrase.substring(findNthOccurence(str, n) + str.length());
+        */
     }
 
     //part b
