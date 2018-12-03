@@ -1,0 +1,3 @@
+public class Student{
+System.out.println("今天早上啥玩意也没吃“);
+}
